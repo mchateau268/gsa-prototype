@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+YOLOv8 INT8 TFLite Inference Example (#7317)
