@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Rename model_id to model.id (#8447)
