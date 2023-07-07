@@ -1,1 +1,1 @@
-add yolov10
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
