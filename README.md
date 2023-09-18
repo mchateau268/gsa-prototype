@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fix xyxyxyxyn calculation in obb result (#8188)
