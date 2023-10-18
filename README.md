@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
