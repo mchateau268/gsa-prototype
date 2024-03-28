@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Fix OBB xywh-angle concatenation bug (#7404)
