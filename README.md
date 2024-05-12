@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add dota8.yaml and O tests (#7394)
