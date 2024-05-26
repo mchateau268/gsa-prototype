@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add new YOLOv8 OBB model metrics (#7379)
