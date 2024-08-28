@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
