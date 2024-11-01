@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
